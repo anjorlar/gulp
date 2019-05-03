@@ -1,0 +1,44 @@
+
+h1{
+    text-align: center;
+    /* color: black; */
+}
+#reg_form{
+    margin-left: 15%;
+    border: 2px solid gray;
+    /* background-color: black; */
+    padding: 100px;
+    width: 50%;
+}
+#Username{
+    margin-left: 9%;
+    width: 30%;
+    height: 20%;
+}
+#Age{
+    margin: 1.5% 14%;
+    width: 8%;
+    height: 20%;
+
+}
+#password{
+    margin-left: 9%;
+    width: 30%;
+    height: 20%;
+}
+#repassword{
+    margin: 1.5% 1%;
+    width: 30%;
+    height: 20%;
+}
+#submit{
+    margin-left: 25%;
+    /* background-color: rgb(43, 43, 87); */
+    border: none;
+    color: white;
+    width: 10%;
+
+}
+body{
+    background-color: rgb(36, 131, 41);
+}
