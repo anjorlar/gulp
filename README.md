@@ -1,1 +1,1 @@
-# implementing gulp
+# implementing minifying and gulping
